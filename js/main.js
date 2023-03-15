@@ -13,3 +13,17 @@ input.addEventListener("keydown", (event) => {
         return false;
     }
 });
+
+function convertToImage() {
+    // Select the element to be converted to an image
+    const element = document.getElementById("output");
+
+    // Convert the element to an image using html2canvas
+    html2canvas(element).then(function(canvas) {
+        // Create a temporary link to download the image
+        const link = document.createElement("a");
+        link.download = "textoenbraile.png";
+        link.href = canvas.toDataURL();
+        link.click();
+    });
+}
