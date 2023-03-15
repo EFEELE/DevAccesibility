@@ -72,6 +72,9 @@ The project is very simple, it is a form that receives text and duplicates it in
   Having a traditional grotesque sans-serif at its core, it departs from tradition to incorporate unambiguous, distinctive elements—and at times, unexpected forms—always with the goal of increasing character recognition and ultimately improve reading.
 
   To contribute, see github.com/googlefonts/atkinson-hyperlegible.
+  
+  * ### html2canvas: <a href="https://html2canvas.hertzen.com/">Download / More info</a>
+  Library used to convert the translation to an image
 
 ## Tips
 
