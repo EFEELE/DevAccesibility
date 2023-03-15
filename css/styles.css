@@ -88,7 +88,7 @@ span#output {
     overflow-wrap: break-word;
     line-height: 1.5;
     font-size: 2rem;
-    height: 300px;
+    min-height: 300px;
     padding: 14px 16px;
     border-radius: 8px;
     resize: none;
@@ -98,4 +98,14 @@ span#output {
     border: 1px solid #ebebeb;
     box-sizing: border-box;
     text-align: left;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    background: #f6f6f6;
+    border: 2px solid #ebebeb;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
