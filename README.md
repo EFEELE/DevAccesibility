@@ -7,9 +7,8 @@
 
   <p align="center">
     DevAccesibility
-    <br />
-    <a href="https://github.com/EFEELE/SLF/tree/main/docs"><strong>Explore the docs »</strong></a>
-    <br />
+   
+
     <br />
     <a href="#about">About The Project</a>
     ·
