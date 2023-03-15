@@ -6,9 +6,10 @@
   <h1 align="center">Braille translator</h1>
 
   <p align="center">
-    DevAccesibility
-   
-
+     DevAccesibility
+    <br />
+    <a href="https://github.com/EFEELE"><strong>EFEELE</strong></a>
+    <br />
     <br />
     <a href="#about">About The Project</a>
     ·
@@ -16,14 +17,17 @@
   </p>
 </div>
 
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 <a name="about"></a>
+## About The Project
+
 This is a small braille translator, the project intends to allow developers who seek to implement such accessibility tools on websites or platforms to collaborate.
 
 The project is very simple, it is a form that receives text and duplicates it in another container but with a different typography, in this case it is: <a href="https://webfonts.ffonts.net/Braille.font">Braille Webfont</a>
