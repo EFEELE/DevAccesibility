@@ -11,9 +11,11 @@
     <a href="https://github.com/EFEELE"><strong>EFEELE</strong></a>
     <br />
     <br />
-    <a href="#about">About The Project</a>
+    <a href="#about">ABOUT</a>
     ·
     <a href="https://efeele.github.io/DevAccesibility/">DEMO</a>
+    ·
+    <a href="https://github.com/EFEELE/DevAccesibility/blob/main/LICENSE">LICENSE</a>
   </p>
 </div>
 
