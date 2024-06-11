@@ -30,6 +30,8 @@
 <a name="about"></a>
 ## About The Project
 
+This tool is designed to be printed and used as a template. It is important to note that Braille requires tactile interaction to be functional.
+
 This is a small braille translator, the project intends to allow developers who seek to implement such accessibility tools on websites or platforms to collaborate.
 
 The project is very simple, it is a form that receives text and duplicates it in another container but with a different typography, in this case it is: <a href="https://webfonts.ffonts.net/Braille.font">Braille Webfont</a>
